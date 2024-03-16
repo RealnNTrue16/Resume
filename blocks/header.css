@@ -1,0 +1,15 @@
+.page {
+  padding: 50px 50px;
+  font-family: "Protest Revolution", Arial, sans-serif;
+}
+
+.header {
+  background-color: green;
+  max-width: 700px;
+  width: 100%;
+}
+
+.header__image {
+  width: 40px;
+  height: 40px;
+}
